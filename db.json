@@ -5,35 +5,40 @@
       "Nome": "Call of Duty Ghosts",
       "Data_lancamento": 2013,
       "Desenvolvedora": "Infinity Ward",
-      "Publisher": "Activision"
+      "Publisher": "Activision",
+      "plataforma_id":1,2,3,4,5,6
     },
    {
       "id":2,
       "Nome": "Gta 5",
       "Data_lancamento": 2013,
       "Desenvolvedora": "Rockstar North",
-      "Publisher": "Rockstar Games"
+      "Publisher": "Rockstar Games",
+      "plataforma_id":1,2,3,4,5,6	   
     },
     {
       "id":3,
       "Nome": "Forza Horizon 5",
       "Data_lancamento": 2021,
       "Desenvolvedora": "Playground Games",
-      "Publisher": "Xbox Game Studios"
+      "Publisher": "Xbox Game Studios",
+      "plataforma_id":1,2,3
     },
     {
      "id":4,
      "Nome": "Watch Dogs 2",
       "Data_lancamento": 2016,
       "Desenvolvedora": "Ubisoft Montreal",
-      "Publisher": "Ubisoft"
+      "Publisher": "Ubisoft",
+       "plataforma_id":1,2,3,4,5,6	    
     },
 	{
      "id":5,
      "Nome": "Battlefield 4",
       "Data_lancamento": 2013,
       "Desenvolvedora": "Dice",
-      "Publisher": "Eletronic Arts"
+      "Publisher": "Eletronic Arts",
+       "plataforma_id":1,2,3,4,5,6		
     }
   ],
   "plataforma": [
